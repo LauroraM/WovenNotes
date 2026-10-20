@@ -1,0 +1,25 @@
+{
+  "name": "WovenNotes",
+  "short_name": "WovenNotes",
+  "description": "A VtM larp companion \u2014 threads, boards, character sheet, connections, boons, and more.",
+  "start_url": "./wovennotes.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0a0c0b",
+  "theme_color": "#0a0c0b",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
